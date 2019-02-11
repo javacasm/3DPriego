@@ -31,91 +31,54 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 
 ## Contenidos
 
-
 ## Sesión 1 
 
 * Introducción a la impresión 3D
-    * Origen, desarrollo y actualidad
-    * Aplicaciones
-    * Tecnologías de impresión. 
-    * Tipos de impresoras. 
-    * Estructura de la impresora 3D. 
-    * Materiales plásticos para impresión 3D. 
-    
-    
+    * [Origen](./Historia.md.md), desarrollo y actualidad
+    * [Aplicaciones](./Aplicaciones.md)
+    * [Tecnologías de impresión](./Teconologias.md) 
+    * [Tipos de impresoras](./Impresoras3D.md) y [geometrías](./Geometrias.md)
+    * [Estructura de la impresora 3D](./impresora3D.md) 
+    * [Materiales plásticos para impresión 3D](./Filamentos.md)
+    * [Qué Comprar](./Comprar.md)
     
 * Modelos
-    * Repositorios de modelos
+    * [Repositorios de modelos](./repositorios.md)
     * Software básico de edición.
     * Introducción al diseño 3d     
-    
-
-
-* Diseño 3D
 
 
 * Software para impresión 3D  
-    * Laminadores: Cura y Slic3r
+    * Laminadores [Software de impresión](./Software.md) y [Formatos de impresión](./Formatos.md)
     * Configuración de perfiles de impresión
+    * [Proceso de impresión](./Proceso_de_Impresion.md)
+    * [Solución de Problemas](./Problemas.md)
 
-Sesión 5 Proceso de impresión 
+* [Diseño 3D](Disenio3D.md)
+    * [Herramientas de diseño](./HerramientasDisenio.md)
+    * [Herramientas comerciales](./HerramientasComerciales.md)
+        * [TinkerCad](./TinkerCad.md)
+    * [Herramientas OpenSource](./HerramientasOpenSource.md)
+        * [Freecad](./Freecad.md)
+        * [Blender](./Blender.md)
+        * Algoritmicos
+            * [BlockScad](./BlockScad.md)
+            * [OpenScad](http://www.openscad.org/)
+
+## Sesión 2 y 3 Diseño con SketchUp
+
+## Sesión 4 Diseño con Autodesk Inventor
+
+## Sesión 5 Proceso de impresión 
 * Análisis de materiales y parámetros Slicer
 * Slicers
 * Materiales y sus parámetros
 
-Sesión 6 Pruebas de impresión. 
+## Sesión 6 Pruebas de impresión. 
 
 En esta sesión nos dedicaremos a imprimir nuestros diseños y analizar las medidas y calidad de las piezas obtenidas, realizando las oportunas modificaciones sobre los parámetros del laminador para corregir las desviaciones y calibración adecuada de la impresora 3D.
 
-Sesión 7 Pruebas de impresión II. 
+## Sesión 7 Pruebas de impresión II. 
 
 Esta última sesión es continuación de la anterior y la dedicaremos al mismo cometido
-
-
-
-## Indice
-
-
-
-* *  *
-
-# Diseño e impresión en 3D
-## [¿Qué es?](./QueEs3D.md)
-## [¿Para qué sirve?](./ParaQueSirve3D.md)
-## [Aplicaciones](./Aplicaciones.md)
-## [Historia](./Historia.md.md)
-## [¿Dónde encontrar diseños?](./repositorios.md)
-## [OpenSource](./OpenSource.md)
-## [Anatomía de una impresora](./impresora3D.md)
-## [Donde Comprar](./Comprar.md)
-
-
-# Impresión 3D
-
-## [Tecnologías de impresión 3D](./Teconologias.md)
-### [Tipos de impresoras](./Geometrias.md)
-### [Modelos de impresoras 3d](./Impresoras3D.md)
-### [Tipos de Filamentos](./Filamentos.md)
-
-## Manejando una impresora 3D
-
-### [Software de impresión](./Software.md)
-### [Formatos de impresión](./Formatos.md)
-### Funcionamiento
-## [Proceso de impresión](./Proceso_de_Impresion.md)
-### Mantenimiento y cuidados
-### [Solución de Problemas](./Problemas.md)
-
-# [Diseño 3D](Disenio3D.md)
-
-## [Herramientas de diseño](./HerramientasDisenio.md)
-### [Herramientas comerciales](./HerramientasComerciales.md)
-#### [TinkerCad](./Tinkercad.md)
-#### [SketchUp](./SketchUp.md)
-### [Herramientas OpenSource](./HerramientasOpenSource.md)
-#### [BlockScad](./BlockScad.md)
-#### [Freecad](./Freecad.md)
-#### [Blender](./Blender.md)
-
-# [Tareas](./Tareas.md)
 
