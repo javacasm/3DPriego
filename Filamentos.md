@@ -43,4 +43,5 @@ Composites:
 ![madera](http://rascomras.com/store/104-thickbox_leometr/laywoo-d3-madera-filamento-3mm-250gr.jpg)
 * Bronce
 ![bronce](http://www.3ders.org/images2014/copperFill_3d-printing-filament-1.jpg)
-* ...
+
+[Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
