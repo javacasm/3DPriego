@@ -8,3 +8,11 @@
 ![restos de soporte](https://thingiverse-production-new.s3.amazonaws.com/renders/fa/c6/02/f5/89/7d8e87bd8ac8d92b725c0f699989c902_display_large.jpg)
 
 * Añadir versión online de Sketchup https://my.sketchup.com/app
+
+## Slicers
+
+Expansión Horizontal
+
+Impresión multipiezas
+
+Altura de capa variable
