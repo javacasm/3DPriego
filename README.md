@@ -31,17 +31,17 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 
 ## Contenidos
 
-## Sesión 1 
+## Sesión 1
 
 * Introducción a la impresión 3D
     * [Origen](./Historia.md.md), desarrollo y actualidad
     * [Aplicaciones](./Aplicaciones.md)
-    * [Tecnologías de impresión](./Teconologias.md) 
+    * [Tecnologías de impresión](./Teconologias.md)
     * [Tipos de impresoras](./Impresoras3D.md) y [geometrías](./Geometrias.md)
-    * [Estructura de la impresora 3D](./impresora3D.md) 
+    * [Estructura de la impresora 3D](./impresora3D.md)
     * [Materiales plásticos para impresión 3D](./Filamentos.md)
     * [Qué Comprar](./Comprar.md)
-    
+
 * Modelos
     * [Repositorios de modelos](./repositorios.md)
     * Software básico de edición.
@@ -69,16 +69,16 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 
 ## Sesión 4 Diseño con Autodesk Inventor
 
-## Sesión 5 Proceso de impresión 
-* Análisis de materiales y parámetros Slicer
-* Slicers
-* Materiales y sus parámetros
+## Sesión 5 Proceso de impresión
 
-## Sesión 6 Pruebas de impresión. 
+* [Slicers](./Slicers.md)
+* [Materiales y sus parámetros](./Filamentos.md)
+
+## Sesión 6 Pruebas de impresión.
 
 En esta sesión nos dedicaremos a imprimir nuestros diseños y analizar las medidas y calidad de las piezas obtenidas, realizando las oportunas modificaciones sobre los parámetros del laminador para corregir las desviaciones y calibración adecuada de la impresora 3D.
 
-## Sesión 7 Pruebas de impresión II. 
+## Sesión 7 Pruebas de impresión II.
 
 Esta última sesión es continuación de la anterior y la dedicaremos al mismo cometido
 
