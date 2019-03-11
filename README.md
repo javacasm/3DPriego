@@ -82,3 +82,9 @@ En esta sesión nos dedicaremos a imprimir nuestros diseños y analizar las medi
 
 Esta última sesión es continuación de la anterior y la dedicaremos al mismo cometido
 
+
+## Recursos
+
+[Guía sobre 3D para el docente](https://lacienciaparatodos.files.wordpress.com/2017/10/impresic3b3n-3d-para-profesores-08-10-2017.pdf) de Javier Fernández Panadero
+
+[Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
