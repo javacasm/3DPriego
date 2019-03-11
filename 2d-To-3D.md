@@ -22,6 +22,10 @@ https://image.online-convert.com/
 * Abrimos Tinkercad
 * Import
 
+## Inkscape
+
+[Vectorizar con InkScape](https://inkscape.org/es/doc/tutorials/tracing/tutorial-tracing.html)
+
 
 ## Freecad
 
