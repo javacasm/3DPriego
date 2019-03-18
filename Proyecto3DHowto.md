@@ -8,7 +8,7 @@ Proyecto multipiezas
 * Anota los tiempos de cada pieza
 
 
-### Ejemplo
+### Ejemplo: [Motor de cuerda](https://www.instructables.com/id/PLA-Spring-Motor-Demonstrator-2/)
 
 
 |Fichero STL|Necesarios|Hechos|Configuración|Tiempo
