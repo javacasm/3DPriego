@@ -88,3 +88,5 @@ Esta última sesión es continuación de la anterior y la dedicaremos al mismo c
 [Guía sobre 3D para el docente](https://lacienciaparatodos.files.wordpress.com/2017/10/impresic3b3n-3d-para-profesores-08-10-2017.pdf) de Javier Fernández Panadero
 
 [Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
+
+[Reglas de oro para imprimir desde SketchUp](https://www.iscarnet.com/2016/08/7-reglas-de-oro-para-la-impresion-3d-con-sketchup/)
